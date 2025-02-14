@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/slip.unreeled.com.ico",
     "slug": "slip",
     "status": "down",
-    "uptime": "89.44%",
+    "uptime": "89.23%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.22%",
-    "uptimeMonth": "91.72%",
-    "uptimeYear": "88.69%",
+    "uptimeWeek": "49.94%",
+    "uptimeMonth": "88.43%",
+    "uptimeYear": "88.41%",
     "time": 916,
     "timeDay": 0,
-    "timeWeek": 859,
-    "timeMonth": 913,
-    "timeYear": 921,
+    "timeWeek": 930,
+    "timeMonth": 915,
+    "timeYear": 923,
     "dailyMinutesDown": {
-      "2025-02-13": 108,
+      "2025-02-14": 107,
+      "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 618,
@@ -84,8 +85,7 @@
       "2024-02-20": 428,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
-      "2024-02-17": 272,
-      "2024-02-15": 86
+      "2024-02-17": 272
     }
   },
   {
@@ -94,18 +94,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mycoloradocondo.com.ico",
     "slug": "my-colorado-condo",
     "status": "down",
-    "uptime": "83.59%",
+    "uptime": "83.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.24%",
-    "uptimeMonth": "91.72%",
-    "uptimeYear": "82.15%",
+    "uptimeWeek": "49.96%",
+    "uptimeMonth": "88.44%",
+    "uptimeYear": "81.87%",
     "time": 902,
     "timeDay": 0,
-    "timeWeek": 829,
-    "timeMonth": 905,
-    "timeYear": 903,
+    "timeWeek": 828,
+    "timeMonth": 911,
+    "timeYear": 904,
     "dailyMinutesDown": {
-      "2025-02-13": 108,
+      "2025-02-14": 107,
+      "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 617,
@@ -194,8 +195,7 @@
       "2024-02-20": 441,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
-      "2024-02-17": 272,
-      "2024-02-15": 86
+      "2024-02-17": 272
     }
   }
 ]
