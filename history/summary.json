@@ -6,15 +6,15 @@
     "slug": "slip",
     "status": "up",
     "uptime": "92.68%",
-    "uptimeDay": "95.58%",
+    "uptimeDay": "98.02%",
     "uptimeWeek": "98.24%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "97.27%",
-    "time": 1492,
-    "timeDay": 4327,
-    "timeWeek": 3635,
-    "timeMonth": 1757,
-    "timeYear": 1612,
+    "uptimeYear": "97.32%",
+    "time": 1490,
+    "timeDay": 7205,
+    "timeWeek": 3641,
+    "timeMonth": 1774,
+    "timeYear": 1611,
     "dailyMinutesDown": {
       "2026-02-16": 28,
       "2026-02-15": 91,
@@ -47,8 +47,7 @@
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
-      "2025-02-18": 1440,
-      "2025-02-17": 1440
+      "2025-02-18": 1440
     }
   },
   {
@@ -58,15 +57,15 @@
     "slug": "my-colorado-condo",
     "status": "up",
     "uptime": "89.59%",
-    "uptimeDay": "95.65%",
+    "uptimeDay": "98.09%",
     "uptimeWeek": "98.84%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "97.25%",
-    "time": 1613,
-    "timeDay": 3955,
-    "timeWeek": 3694,
-    "timeMonth": 1747,
-    "timeYear": 1849,
+    "uptimeYear": "97.29%",
+    "time": 1608,
+    "timeDay": 7052,
+    "timeWeek": 3682,
+    "timeMonth": 1743,
+    "timeYear": 1846,
     "dailyMinutesDown": {
       "2026-02-16": 27,
       "2026-02-15": 89,
@@ -97,8 +96,7 @@
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
-      "2025-02-18": 1440,
-      "2025-02-17": 1440
+      "2025-02-18": 1440
     }
   }
 ]
