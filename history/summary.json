@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.02%",
     "time": 1591,
-    "timeDay": 695,
-    "timeWeek": 708,
-    "timeMonth": 2241,
-    "timeYear": 1715,
+    "timeDay": 780,
+    "timeWeek": 724,
+    "timeMonth": 2239,
+    "timeYear": 1723,
     "dailyMinutesDown": {
       "2026-03-25": 70,
       "2026-03-24": 186,
@@ -41,8 +41,7 @@
       "2025-06-18": 24,
       "2025-06-17": 76,
       "2025-06-11": 31,
-      "2025-05-27": 37,
-      "2025-04-19": 40
+      "2025-05-27": 37
     }
   },
   {
@@ -51,16 +50,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mycoloradocondo.com.ico",
     "slug": "my-colorado-condo",
     "status": "up",
-    "uptime": "90.31%",
+    "uptime": "90.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.03%",
     "time": 1687,
-    "timeDay": 682,
-    "timeWeek": 740,
-    "timeMonth": 2293,
-    "timeYear": 1903,
+    "timeDay": 927,
+    "timeWeek": 786,
+    "timeMonth": 2295,
+    "timeYear": 1911,
     "dailyMinutesDown": {
       "2026-03-25": 69,
       "2026-03-24": 184,
@@ -85,8 +84,7 @@
       "2025-06-18": 23,
       "2025-06-17": 75,
       "2025-06-11": 18,
-      "2025-05-27": 36,
-      "2025-04-19": 40
+      "2025-05-27": 36
     }
   }
 ]
